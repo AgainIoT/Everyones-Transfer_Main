@@ -1,2 +1,3 @@
 #! /bin/bash
-git submodule update --remote
+git submodule init
+git submodule update --recursive --remote
