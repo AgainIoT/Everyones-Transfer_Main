@@ -8,9 +8,9 @@
 <img src="./img/requirements.png">
 <br><br>
 
-## 시연 영상
+<!-- ## 시연 영상
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/cYq_--GPmiE)
-<br><br>
+<br><br> -->
 
 ## System Architecture
 <img src="./img/system.jpg">
@@ -27,7 +27,7 @@
 
 ## 앱을 설치하는 방법
 "**모두의 환승**"은 교통약자 환승 지도를 제작하는 전문 리서처에게 제공할 목적으로 만들어진 어플리케이션으로, 데이터 처리가 용이하도록 사용자에게 많은 권한이 부여되어 있습니다. 따라서 구글 플레이 스토어 등을 통해서 불특정 다수에게 공개될 경우 환승 경로 데이터를 데이터베이스에 삽입하는 과정에서 잘못된 데이터가 등록될 우려가 있습니다. 따라서 다음과 같은 방식을 통하여 "모두의 환승"을 설치해야 합니다.
-1. 안드로이드 xx버전 이상의 스마트폰을 준비한다.
+1. 안드로이드 5.0 버전 이상의 스마트폰을 준비한다.
 2. 해당 repository의 release에서 zip 파일을 스마트폰에 다운로드합니다.
 3. 관리자(yunminwo1211@gmail.com)에게 메일을 통해 문의하여, zip 파일의 암호를 제공 받습니다.
 4. zip파일 내부의 apk 파일을 실행하여 앱을 설치해 사용합니다.
