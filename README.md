@@ -35,7 +35,7 @@
 
 ## 이 프로젝트에 기여하는 방법
 이 프로젝트에 기여하고 한다면, <a href="https://github.com/AgainIoT/Everyones-Transfer_Main/wiki/To-Contribute-this-Project...">GitHub Wiki</a>를 참고하여 해당 프로젝트에 기여해주시면 됩니다.
-
+<br><br>
 
 ## 초기 설정
 아래의 코드를 입력하여 업데이트 및 초기 설정(submodule 불러오기)를 진행할 수 있습니다.
