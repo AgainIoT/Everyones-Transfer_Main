@@ -53,3 +53,8 @@ bash update.sh
 | <a href="https://github.com/bentshrimp">박진우</a> | bentshrimp@gmail.com | Frontend | Java(Android OS), XML |
 | <a href="https://github.com/hummingbbird">이채영</a> | pop98149814@gmail.com | Frontend | Java(Android OS), XML |
 | <a href="https://github.com/Kim-Jiyun">김지윤</a> | kwldbs1118@gmail.com | Frontend | Java(Android OS), XML |
+
+<br>
+
+## LICENSE
+이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
