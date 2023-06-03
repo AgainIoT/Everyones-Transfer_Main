@@ -3,4 +3,4 @@
 	url = https://github.com/AgainIoT/Everyones-Transfer_Backend.git
 [submodule "Frontend"]
 	path = Frontend
-	url = https://github.com/AgainIoT/Sk-Sunny.git
+	url = https://github.com/AgainIoT/Everyones-Transfer_Frontend.git
